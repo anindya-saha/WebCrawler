@@ -69,6 +69,8 @@ public class WebCrawlerGui extends javax.swing.JFrame {
 				try {
 
 					startUrl = searchUrl.poll();
+					//System.out.println("Started Crawling: " + startUrl);
+					
 					URL url = new URL(startUrl);
 
 					// Open the address and create a BufferedReader with the
@@ -101,16 +103,19 @@ public class WebCrawlerGui extends javax.swing.JFrame {
 					}
 
 					crawled++;
-					System.out.println("Crawled: " + startUrl);
+					System.out.println("Finished Crawling: " + startUrl);
 
 					// Dumping the text to a file
 					parseHtml(content, getValidFileName(startUrl), crawled);
 
 				} catch (MalformedURLException mex) {
-					//System.err.println("Url has errors. Could not crawl: " + startUrl);
+					System.err.println("Exception Crawling: " + startUrl + " Url has errors.");
 					continue;
 				} catch (IOException ex) {
-					//System.err.println("Url has errors. Could not crawl: " + startUrl);
+					System.err.println("Exception Crawling: " + startUrl + " Url has errors.");
+					continue;
+				} catch (Exception ex) {
+					System.err.println("Exception Crawling: " + startUrl + " Url has errors.");
 					continue;
 				}
 			}
@@ -130,8 +135,9 @@ public class WebCrawlerGui extends javax.swing.JFrame {
 	}
 
 	private String getValidURL(String url) {
-		url = url.replaceAll("www.", "");
-		if (!url.endsWith("/")) {
+		//url = url.replaceAll("www.", "");
+		
+		if (!url.endsWith(".html") && !url.endsWith(".shtml")  && !url.endsWith(".asp")  && !url.endsWith(".aspx") && !url.endsWith("/")) {
 			url = url + "/";
 		}
 		return url;
