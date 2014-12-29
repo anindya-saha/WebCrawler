@@ -1,0 +1,26 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://harvard.edu/
+Finished Crawling: http://alumni.harvard.edu/
+Finished Crawling: http://hpac.harvard.edu/
+Exception Crawling: http://hbs.edu/ Url has errors.
+Finished Crawling: http://college.harvard.edu/
+Finished Crawling: http://dce.harvard.edu/
+Finished Crawling: http://hsdm.harvard.edu/
+Finished Crawling: http://gsd.harvard.edu/
+Finished Crawling: http://hds.harvard.edu/
+Finished Crawling: http://gse.harvard.edu/
+Finished Crawling: http://seas.harvard.edu/
+Finished Crawling: http://fas.harvard.edu/
+Finished Crawling: http://hks.harvard.edu/
+Finished Crawling: http://gsas.harvard.edu/
+Finished Crawling: http://law.harvard.edu/index.html
+Finished Crawling: http://hms.harvard.edu/
+Exception Crawling: http://hsph.harvard.edu/ Url has errors.
+Finished Crawling: http://radcliffe.edu/
+Finished Crawling: http://gocrimson.com/
+Finished Crawling: http://commencement.harvard.edu/
+Finished Crawling: http://coursecatalog.harvard.edu/
+Exception Crawling: https://edx.org/university_profile/HarvardX/ Url has errors.
+Finished Crawling: http://employment.harvard.edu/
+Total number of Web sites Crawled : 20

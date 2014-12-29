@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://illinois.edu/
+Finished Crawling: http://aces.illinois.edu/
+Finished Crawling: http://ahs.illinois.edu/
+Finished Crawling: http://aviation.illinois.edu/avimain/
+Finished Crawling: http://business.illinois.edu/
+Finished Crawling: http://education.illinois.edu/
+Finished Crawling: http://engineering.illinois.edu/
+Finished Crawling: http://faa.illinois.edu/
+Finished Crawling: http://dgs.illinois.edu/
+Finished Crawling: http://grad.illinois.edu/
+Finished Crawling: http://ler.illinois.edu/
+Finished Crawling: http://law.illinois.edu/
+Finished Crawling: http://las.illinois.edu/
+Finished Crawling: http://lis.illinois.edu/
+Finished Crawling: http://media.illinois.edu/
+Finished Crawling: http://med.illinois.edu/
+Finished Crawling: http://socialwork.illinois.edu/
+Finished Crawling: http://vetmed.illinois.edu/
+Finished Crawling: http://illinois.edu/resourcesfor/future_student.html
+Finished Crawling: http://illinois.edu/about/overview/facts/rankings.html
+Total number of Web sites Crawled : 20

@@ -1,0 +1,23 @@
+Started Crawling...
+Finished Crawling: http://stanford.edu/
+Finished Crawling: http://parents.stanford.edu/
+Finished Crawling: http://alumni.stanford.edu/get/page/about-us/
+Finished Crawling: http://news.stanford.edu/features/2014/thinking-matters/
+Finished Crawling: http://news.stanford.edu/news/2014/december/art-standalone-slideshow-122314.html
+Finished Crawling: http://shc.stanford.edu/news/research/stanford-freshmen-create-medieval-inspired-artifacts-twenty-first-century/
+Finished Crawling: http://engineering.stanford.edu/education/
+Finished Crawling: http://news.stanford.edu/news/2014/december/saltwater-knight-coast-120514.html
+Finished Crawling: http://news.stanford.edu/news/2014/december/public-health-beaches-121914.html
+Finished Crawling: http://news.stanford.edu/news/2014/december/altruism-triggers-innate-121814.html
+Finished Crawling: http://news.stanford.edu/news/2014/december/prepare-for-holidays-122214.html
+Finished Crawling: http://news.stanford.edu/news/2014/december/art-exhibits-campus-122314.html
+Finished Crawling: http://gsb.stanford.edu/insights/itamar-simonson-what-influences-shoppers/
+Finished Crawling: http://news.stanford.edu/news/2014/december/young-veterans-unemploy-121814.html
+Finished Crawling: http://news.stanford.edu/
+Finished Crawling: https://twitter.com/search?q=%23AtStanford2014&src=hash/
+Exception Crawling: http://stanford.io/13maTSd/ Url has errors.
+Finished Crawling: http://anderson.stanford.edu/
+Finished Crawling: https://events.stanford.edu/events/478/47891/
+Finished Crawling: https://events.stanford.edu/events/479/47949/
+Finished Crawling: https://events.stanford.edu/events/458/45889/
+Total number of Web sites Crawled : 20

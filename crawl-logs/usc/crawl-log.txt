@@ -1,0 +1,25 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.usc.edu/
+Finished Crawling: http://studentaffairs.usc.edu/
+Finished Crawling: http://parents.usc.edu/
+Finished Crawling: http://faculty.usc.edu/
+Finished Crawling: http://employees.usc.edu/
+Finished Crawling: http://www.keckmedicine.org/
+Finished Crawling: http://news.usc.edu/72350/usc-2014-our-favorite-images-of-the-year/
+Exception Crawling: http://www.usctrojans.com/sports/m-footbl/recaps/122714aaa.html Url has errors.
+Finished Crawling: http://news.usc.edu/71654/2014-usc-weird-science/
+Finished Crawling: http://news.usc.edu/73099/student-athletes-play-santa-for-underprivileged-children/
+Finished Crawling: http://preparedness.usc.edu/campus/trojan-mobile-safety-app/
+Finished Crawling: http://campaign.usc.edu/
+Finished Crawling: http://pressroom.usc.edu/
+Exception Crawling: http://mail.google.com/a/usc.edu/ Url has errors.
+Finished Crawling: http://emergency.usc.edu/
+Finished Crawling: http://web-app.usc.edu/tommycam/
+Finished Crawling: http://www.usc.edu/maps/
+Finished Crawling: http://www.usc.edu/maps/hsc/
+Finished Crawling: http://jobs.usc.edu/
+Finished Crawling: http://www.usc.edu/directories/dept/departments.html
+Finished Crawling: http://preparedness.usc.edu/
+Finished Crawling: http://www.flickr.com/photos/universityofsoutherncalifornia/sets/
+Total number of Web sites Crawled : 20

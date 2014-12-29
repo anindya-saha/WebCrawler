@@ -1,0 +1,24 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.yale.edu/
+Finished Crawling: http://president.yale.edu/
+Finished Crawling: http://www.library.yale.edu/
+Finished Crawling: http://admissions.yale.edu/
+Finished Crawling: http://gsas.yale.edu/admission-graduate-school/
+Finished Crawling: http://summer.yale.edu/
+Finished Crawling: http://www.yale.edu/worldfellows/application.html
+Finished Crawling: http://opa.yale.edu/
+Finished Crawling: http://www.yale.edu/hronline/careers/index.html
+Finished Crawling: http://www.yale.edu/hronline/index.html
+Finished Crawling: http://www.yale.edu/livingnh/
+Finished Crawling: http://onhsa.yale.edu/
+Finished Crawling: http://www.yale.edu/universityproperties/
+Finished Crawling: http://studentlife.yale.edu/
+Finished Crawling: http://emergency.yale.edu/
+Finished Crawling: http://news.yale.edu/2014/12/23/your-14-top-stories-2014-and-ours/
+Finished Crawling: http://news.yale.edu/
+Finished Crawling: http://news.yale.edu/2013/05/06/yale-s-ian-shapiro-speak-world-economic-forum-africa-2013/
+Exception Crawling: http://presidential-search.yale.edu/ Url has errors.
+Finished Crawling: http://news.yale.edu/2013/09/29/historic-250-million-gift-yale-alumnus-largest-ever/
+Finished Crawling: http://inauguration.yale.edu/
+Total number of Web sites Crawled : 20

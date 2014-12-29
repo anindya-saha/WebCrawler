@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://utexas.edu/
+Finished Crawling: http://lib.utexas.edu/
+Finished Crawling: http://m.utexas.edu/
+Finished Crawling: https://utdirect.utexas.edu/
+Finished Crawling: http://bit.ly/1x2NenF/
+Finished Crawling: http://bit.ly/12VPRtJ/
+Finished Crawling: http://bit.ly/1w2WKjM/
+Finished Crawling: http://utexas.edu/know/
+Finished Crawling: http://utexas.edu/news/
+Finished Crawling: http://utexas.edu/emergency/
+Finished Crawling: http://utexas.edu/its/alerts/
+Finished Crawling: http://utexas.edu/news/2014/12/15/center-sports-leadership-innovation/
+Finished Crawling: http://utexas.edu/news/2014/12/11/avian-tree-tacc-warnow/
+Finished Crawling: http://utexas.edu/news/2014/12/09/methane-emissions-dave-allen/
+Finished Crawling: http://utexas.edu/news/2014/12/18/kiplinger-college-value/
+Finished Crawling: http://utexas.edu/news/2014/12/11/law-public-affairs-integrated-degrees/
+Finished Crawling: http://calendar.utexas.edu/
+Finished Crawling: http://calendar.utexas.edu/event/guided_public_art_tour_formalism_vs_conceptualism/
+Finished Crawling: http://calendar.utexas.edu/event/texas_enterprise_speaker_series_is_it_time_for_revolution_in_health_innovation/
+Finished Crawling: http://calendar.utexas.edu/event/mamma_mia_7295/
+Total number of Web sites Crawled : 20

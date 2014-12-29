@@ -1,0 +1,1 @@
+CAS Authentication wanted! CAS Authentication wanted! You should already have been redirected to the CAS server. Click here to continue. phpCAS 1.2.0 using server https://login.gatech.edu/cas/ (CAS S1)

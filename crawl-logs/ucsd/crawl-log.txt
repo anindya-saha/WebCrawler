@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://ucsd.edu/
+Finished Crawling: http://m.ucsd.edu/
+Finished Crawling: http://admissions.ucsd.edu/
+Finished Crawling: http://admissions.ucsd.edu/freshmen/
+Finished Crawling: http://admissions.ucsd.edu/transfers/
+Finished Crawling: http://admissions.ucsd.edu/international/
+Finished Crawling: http://admissions.ucsd.edu/events/
+Finished Crawling: http://admissions.ucsd.edu/tours/
+Finished Crawling: http://admissions.ucsd.edu/colleges/
+Finished Crawling: http://ogs.ucsd.edu/
+Finished Crawling: http://students.ucsd.edu/
+Finished Crawling: http://mytritonlink.ucsd.edu/
+Finished Crawling: http://students.ucsd.edu/academics/
+Finished Crawling: http://students.ucsd.edu/finances/
+Finished Crawling: http://students.ucsd.edu/student-life/
+Finished Crawling: http://students.ucsd.edu/well-being/
+Finished Crawling: http://students.ucsd.edu/campus-services/
+Finished Crawling: http://parents.ucsd.edu/
+Finished Crawling: http://parents.ucsd.edu/resources/finances/index.html
+Finished Crawling: http://parents.ucsd.edu/academic-resources/
+Total number of Web sites Crawled : 20

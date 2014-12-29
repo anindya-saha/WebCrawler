@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.brown.edu/
+Finished Crawling: https://storify.com/BrownUniversity/brown-university-2014-highlights/
+Finished Crawling: http://watson.brown.edu/news/explore/2014/MichelleJurkovich/
+Finished Crawling: https://news.brown.edu/articles/2014/12/terpenes/
+Finished Crawling: http://giving.brown.edu/stories/hong-kong/
+Finished Crawling: https://news.brown.edu/articles/2014/12/social/
+Finished Crawling: https://news.brown.edu/articles/2014/12/biop3/
+Finished Crawling: http://youtu.be/HnRw_uqhniE/
+Finished Crawling: https://news.brown.edu/articles/2014/12/ortega/
+Finished Crawling: https://news.brown.edu/articles/2014/12/wellenius/
+Finished Crawling: http://giving.brown.edu/stories/fruitful-journey/
+Finished Crawling: http://www.brown.edu/academics/gradschool/news/2014-12/mfa-alumni-make-their-mark-classic/
+Finished Crawling: http://news.brown.edu/
+Finished Crawling: http://events.brown.edu/
+Finished Crawling: http://www.brownbears.com/
+Finished Crawling: http://250.brown.edu/
+Finished Crawling: http://www.brown.edu/about/administration/global-engagement/
+Finished Crawling: http://watson.brown.edu/
+Finished Crawling: http://brown.edu/web/providence/
+Finished Crawling: http://www.brown.edu/gradschool/
+Total number of Web sites Crawled : 20

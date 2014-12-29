@@ -1,0 +1,27 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://wisc.edu/
+Finished Crawling: https://learnuw.wisc.edu/
+Finished Crawling: http://library.wisc.edu/
+Finished Crawling: http://map.wisc.edu/
+Finished Crawling: http://supportuw.org?utm_source=wisc_edu&amp;utm_medium=online&amp;utm_content=header&amp;utm_campaign=campus /
+Finished Crawling: http://ssec.wisc.edu/localweather/
+Finished Crawling: http://admissions.wisc.edu/
+Finished Crawling: http://admissions.wisc.edu/applyOnline.php/
+Exception Crawling: http://admissions.wisc.edu/why.php/ Url has errors.
+Exception Crawling: http://admissions.wisc.edu/status.php/ Url has errors.
+Finished Crawling: http://admissions.wisc.edu/costs.php/
+Finished Crawling: http://grad.wisc.edu/education/admissions/index.html
+Finished Crawling: http://grad.wisc.edu/education/admissions/stepstoapply.html
+Finished Crawling: http://grad.wisc.edu/education/mas/toc.html
+Finished Crawling: http://grad.wisc.edu/education/admissions/costs.html
+Finished Crawling: http://law.wisc.edu/
+Finished Crawling: http://med.wisc.edu/
+Finished Crawling: http://pharmacy.wisc.edu/
+Finished Crawling: http://vetmed.wisc.edu/
+Exception Crawling: http://continuingstudies.wisc.edu/outreach/conted.htm/ Url has errors.
+Exception Crawling: https://gradsch.wisc.edu/education/academic_programs/index.html Url has errors.
+Finished Crawling: http://secfac.wisc.edu/acadcal/
+Finished Crawling: http://wisc.edu/academics/catalogs.php/
+Finished Crawling: http://public.my.wisc.edu/
+Total number of Web sites Crawled : 20

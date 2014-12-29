@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.purdue.edu/
+Finished Crawling: http://www.purdue.edu/newsroom/
+Finished Crawling: http://www.purdue.edu/president/
+Finished Crawling: http://www.purdueofficialstore.com/
+Finished Crawling: http://www.purdue.edu/visit/
+Finished Crawling: https://securelb.imodules.com/s/1461/research/hybrid/index.aspx?sid=1461&amp;gid=1010&amp;pgid=1754&amp;cid=4045/
+Finished Crawling: http://www.purdue.edu/ea/
+Finished Crawling: http://www.purdue.edu/index.html
+Finished Crawling: http://www.purdue.edu/purdue/admissions/index.html
+Finished Crawling: http://www.purdue.edu/purdue/academics/index.html
+Finished Crawling: http://www.purdue.edu/purdue/arts/index.html
+Finished Crawling: http://www.purdue.edu/purdue/research/index.html
+Finished Crawling: http://www.purdue.edu/purdue/alumni/index.html
+Finished Crawling: http://www.purdue.edu/purdue/athletics/index.html
+Finished Crawling: http://www.purdue.edu/purdue/about/index.html
+Finished Crawling: http://www.purdue.edu/purdue/current_students/
+Finished Crawling: http://www.purdue.edu/purdue/engage/
+Finished Crawling: https://securelb.imodules.com/s/1461/research/hybrid/index.aspx?sid=1461&amp;gid=1010&amp;pgid=1754&amp;cid=4045&amp;appealcode=12984/
+Finished Crawling: http://www.purdue.edu/purdue/prospective_students/
+Finished Crawling: http://www.purdue.edu/purdue/careers/
+Total number of Web sites Crawled : 20

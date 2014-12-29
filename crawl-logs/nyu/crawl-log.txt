@@ -1,0 +1,27 @@
+Clicked Start
+Started Crawling...
+Exception Crawling: tp://www.nyu.edu/ Url has errors.
+Total number of Web sites Crawled : 0
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.nyu.edu/
+Finished Crawling: http://www.nyu.edu/employees/resources-and-services/media-and-communications/digital-communications/browser-support/enable-javascript.html
+Finished Crawling: http://home.nyu.edu/
+Finished Crawling: http://as.nyu.edu/
+Finished Crawling: http://cas.nyu.edu/
+Finished Crawling: http://www.nyu.edu/dental/
+Finished Crawling: http://nursing.nyu.edu/
+Finished Crawling: http://www.cims.nyu.edu/
+Finished Crawling: http://gallatin.nyu.edu/
+Finished Crawling: http://gsas.nyu.edu/
+Finished Crawling: http://www.nyu.edu/gsas/dept/fineart/
+Finished Crawling: http://www.nyu.edu/isaw/
+Finished Crawling: http://www.stern.nyu.edu/
+Finished Crawling: http://www.liberalstudies.nyu.edu/
+Finished Crawling: http://nyuad.nyu.edu/
+Finished Crawling: http://shanghai.nyu.edu/
+Finished Crawling: http://www.poly.edu/
+Finished Crawling: http://wagner.nyu.edu/
+Finished Crawling: http://www.sps.nyu.edu/
+Finished Crawling: http://www.law.nyu.edu/
+Total number of Web sites Crawled : 20

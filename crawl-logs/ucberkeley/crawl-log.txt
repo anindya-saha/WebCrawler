@@ -1,0 +1,22 @@
+Started Crawling...
+Finished Crawling: http://berkeley.edu/index.html
+Finished Crawling: http://directory.berkeley.edu/
+Finished Crawling: http://bconnected.berkeley.edu/
+Finished Crawling: http://calparents.berkeley.edu/
+Finished Crawling: http://alumni-friends.berkeley.edu/
+Finished Crawling: http://berkeley.edu/academics/dept/a.shtml
+Finished Crawling: http://berkeley.edu/a-z/a.shtml
+Finished Crawling: http://registrar.berkeley.edu/CalendarDisp.aspx?terms=current/
+Finished Crawling: http://events.berkeley.edu/
+Finished Crawling: http://catalog.berkeley.edu/
+Finished Crawling: http://schedule.berkeley.edu/
+Finished Crawling: http://summer.berkeley.edu/
+Finished Crawling: http://edx.org/
+Finished Crawling: https://bcourses.berkeley.edu/
+Finished Crawling: https://bspace.berkeley.edu/portal/
+Finished Crawling: https://telebears.berkeley.edu/telebears/home/
+Finished Crawling: http://bearfacts.berkeley.edu/
+Finished Crawling: https://calcentral.berkeley.edu/
+Finished Crawling: http://internationaloffice.berkeley.edu/
+Finished Crawling: http://berkeley.edu/work/jobs.shtml
+Total number of Web sites Crawled : 20

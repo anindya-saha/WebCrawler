@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://uci.edu/
+Finished Crawling: http://www.students.uci.edu/
+Finished Crawling: http://alumni.uci.edu/
+Finished Crawling: https://portal.uci.edu/
+Finished Crawling: http://parents.uci.edu/
+Finished Crawling: http://weather.weatherbug.com/CA/Irvine-weather.html?zip=92697/
+Finished Crawling: http://news.uci.edu/features/hazy-road-to-mecca/
+Finished Crawling: http://news.uci.edu/features/a-sense-for-biosensors/
+Finished Crawling: http://news.uci.edu/features/from-obscurity-to-world-stage/
+Finished Crawling: http://news.uci.edu/features/ahead-of-the-curve/
+Finished Crawling: http://news.uci.edu/features/how-to-keep-the-happy-in-the-holidays/
+Finished Crawling: http://news.uci.edu/press-releases/minimum-wage-increases-result-in-job-loss-uci-led-study-reaffirms/
+Finished Crawling: http://ucirvinesports.com/genrel/Teddy_Bear_Toy_Drive/
+Finished Crawling: http://news.uci.edu/press-releases/felipe-hernandez-13-named-marshall-scholar-ucis-first-in-18-years/
+Finished Crawling: http://news.uci.edu/
+Finished Crawling: http://today.uci.edu/
+Finished Crawling: http://ucirvinesports.com/sports/m-baskbl/index/
+Finished Crawling: http://www.ucirvinesports.com/sports/w-baskbl/index/
+Finished Crawling: http://unex.uci.edu/services/events/
+Finished Crawling: http://parking.uci.edu/
+Total number of Web sites Crawled : 20

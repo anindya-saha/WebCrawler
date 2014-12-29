@@ -1,0 +1,24 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://columbia.edu/
+Finished Crawling: http://columbia.edu/content/about-columbia.html
+Finished Crawling: http://news.columbia.edu/cookbook/
+Finished Crawling: http://communityservice.columbia.edu/
+Finished Crawling: http://news.columbia.edu/research/3555/
+Exception Crawling: http://gocolumbialions.com/ Url has errors.
+Finished Crawling: http://news.columbia.edu/
+Finished Crawling: http://news.columbia.edu/rss-how-to/
+Finished Crawling: http://globalfreespeech.columbia.edu/
+Finished Crawling: http://engineering.columbia.edu/professors-nayar-and-vunjak-novakovic-elected-national-academy-inventors/
+Finished Crawling: http://mailman.columbia.edu/news/exposure-during-pregnancy-common-household-chemicals-associated-substantial-drop-child-iq/
+Finished Crawling: http://news.columbia.edu/pressroom/3580/
+Finished Crawling: http://columbia.edu/bearden/
+Finished Crawling: http://ce.columbia.edu/postbaccalaureate-studies/
+Finished Crawling: http://globalcenters.columbia.edu/content/basel-iii-capital-and-liquidity-standards-are-indian-banks-ready-transition/
+Finished Crawling: http://globalcenters.columbia.edu/content/iv-columbia-udp-public-policy-meeting-visualizing-experiences-tools-cope-aging-and-measure/
+Finished Crawling: http://columbia.edu/cu/sfs/index.html
+Finished Crawling: http://news.columbia.edu/research/
+Finished Crawling: http://evpr.columbia.edu/content/selected-resources/
+Finished Crawling: http://columbia.edu/cu/lweb/
+Finished Crawling: http://columbia.edu/cu/lweb/indiv/
+Total number of Web sites Crawled : 20

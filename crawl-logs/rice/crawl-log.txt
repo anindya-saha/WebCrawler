@@ -1,0 +1,24 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.rice.edu/
+Finished Crawling: http://www.rice.edu/RiceHC14/
+Finished Crawling: http://students.rice.edu/students/research_centers.aspx
+Finished Crawling: http://bakerinstitute.org/
+Finished Crawling: http://brc.rice.edu/
+Finished Crawling: http://eei.rice.edu/
+Finished Crawling: http://kinder.rice.edu/
+Exception Crawling: http://ccd.rice.edu/content.aspx?id=45/ Url has errors.
+Finished Crawling: http://ccd.rice.edu/interview/
+Finished Crawling: http://ccd.rice.edu/post/
+Finished Crawling: http://ccd.rice.edu/recruitingpolicies/
+Finished Crawling: http://students.rice.edu/students/Schools_dept_programs.aspx
+Finished Crawling: http://engr.rice.edu/
+Finished Crawling: http://business.rice.edu/
+Finished Crawling: http://architecture.rice.edu/
+Finished Crawling: http://humanities.rice.edu/
+Finished Crawling: http://socialsciences.rice.edu/
+Finished Crawling: http://students.rice.edu/students/Departments.asp
+Finished Crawling: http://music.rice.edu/
+Finished Crawling: http://www.gscs.rice.edu/GSCSHome.aspx
+Finished Crawling: http://naturalsciences.rice.edu/
+Total number of Web sites Crawled : 20

@@ -1,0 +1,50 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.upenn.edu/
+Finished Crawling: http://medley.isc-seo.upenn.edu/penn_portal/view.php/
+Exception Crawling: https://medley.isc-seo.upenn.edu/penn_portal/u@penn.php/ Url has errors.
+Finished Crawling: http://www.alumni.upenn.edu/
+Exception Crawling: https://medley05.isc-seo.upenn.edu/giving/jsp/fast.do/ Url has errors.
+Finished Crawling: http://www.upenn.edu/directories/
+Finished Crawling: http://www.upenn.edu/calendar/
+Finished Crawling: http://www.facilities.upenn.edu/maps/
+Finished Crawling: http://www.upenn.edu/computing/webmail/
+Finished Crawling: http://global.upenn.edu/
+Finished Crawling: http://www.library.upenn.edu/
+Finished Crawling: http://www.upenn.edu/pennnews/
+Finished Crawling: http://www.upenn.edu/pennnews/rss/news-releases/
+Finished Crawling: http://www.upenn.edu/pennnews/news/student-group-penn-delivers-site-science-local-children/
+Finished Crawling: http://www.upenn.edu/pennnews/current/2014-12-18/interviews/qa-charles-kane/
+Finished Crawling: http://www.upenn.edu/pennnews/current/2014-12-18/features/more-perfect-criminal-justice-system/
+Finished Crawling: http://www.business-services.upenn.edu/arboretum/gardens_railway.shtml
+Finished Crawling: http://www.pennathletics.com/SportSelect.dbml?DB_OEM_ID=1700&SPID=540&SPSID=8649&DB_OEM_ID=1700/
+Finished Crawling: http://www.upenn.edu/pennnews/current/calendar/
+Finished Crawling: http://cms.business-services.upenn.edu/parking/
+Finished Crawling: http://www.facilities.upenn.edu/map.php/
+Finished Crawling: http://www.upenn.edu/itunes/
+Total number of Web sites Crawled : 20
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.upenn.edu/
+Finished Crawling: http://medley.isc-seo.upenn.edu/penn_portal/view.php/
+Exception Crawling: https://medley.isc-seo.upenn.edu/penn_portal/u@penn.php/ Url has errors.
+Finished Crawling: http://www.alumni.upenn.edu/
+Exception Crawling: https://medley05.isc-seo.upenn.edu/giving/jsp/fast.do/ Url has errors.
+Finished Crawling: http://www.upenn.edu/directories/
+Finished Crawling: http://www.upenn.edu/calendar/
+Finished Crawling: http://www.facilities.upenn.edu/maps/
+Finished Crawling: http://www.upenn.edu/computing/webmail/
+Finished Crawling: http://global.upenn.edu/
+Finished Crawling: http://www.library.upenn.edu/
+Finished Crawling: http://www.upenn.edu/pennnews/
+Finished Crawling: http://www.upenn.edu/pennnews/rss/news-releases/
+Finished Crawling: http://www.upenn.edu/pennnews/news/student-group-penn-delivers-site-science-local-children/
+Finished Crawling: http://www.upenn.edu/pennnews/current/2014-12-18/interviews/qa-charles-kane/
+Finished Crawling: http://www.upenn.edu/pennnews/current/2014-12-18/features/more-perfect-criminal-justice-system/
+Finished Crawling: http://www.business-services.upenn.edu/arboretum/gardens_railway.shtml
+Finished Crawling: http://www.pennathletics.com/SportSelect.dbml?DB_OEM_ID=1700&SPID=540&SPSID=8649&DB_OEM_ID=1700/
+Finished Crawling: http://www.upenn.edu/pennnews/current/calendar/
+Finished Crawling: http://cms.business-services.upenn.edu/parking/
+Finished Crawling: http://www.facilities.upenn.edu/map.php/
+Finished Crawling: http://www.upenn.edu/itunes/
+Total number of Web sites Crawled : 20

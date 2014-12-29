@@ -1,0 +1,26 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: https://umich.edu/
+Finished Crawling: http://ro.umich.edu/calendar/
+Finished Crawling: https://ctools.umich.edu/
+Finished Crawling: https://mcommunity.umich.edu/
+Exception Crawling: http://email.umich.edu/ Url has errors.
+Finished Crawling: https://email.med.umich.edu/
+Finished Crawling: http://mirlyn.lib.umich.edu/
+Finished Crawling: http://campusinfo.umich.edu/mapsAndDirections/
+Finished Crawling: https://wolverineaccess.umich.edu/
+Exception Crawling: https://record.umich.edu/articles/matthaei-museums-host-exhibits-during-winter-break/ Url has errors.
+Finished Crawling: http://ns.umich.edu/new/multimedia/videos/22571-learning-from-brazil-s-success-with-milk-banks/
+Finished Crawling: http://ns.umich.edu/new/releases/22551-1-000-pitches-winners-part-of-national-movement/
+Finished Crawling: http://ns.umich.edu/new/releases/22515-u-m-jumps-to-no-6-in-study-abroad-ranking/
+Finished Crawling: http://lsa.umich.edu/students/academicsrequirements/lsadegreesrequirements/languagerequirement/lesscommonlytaughtlanguages/
+Exception Crawling: https://record.umich.edu/articles/u-m-makes-strong-showing-us-news-grad-school-rankings/ Url has errors.
+Finished Crawling: http://global.umich.edu/
+Finished Crawling: http://engin.umich.edu/college/about/news/stories/2014/december/curiosity-rover-finds-organics-on-mars/
+Finished Crawling: http://bit.ly/weisergift/
+Finished Crawling: http://record.umich.edu/stories/martha-pollack-will-serve-additional-three-years-u-m-provost/
+Finished Crawling: http://ns.umich.edu/new/multimedia/videos/22574-use-of-alcohol-cigarettes-number-of-illicit-drugs-declines-among-u-s-teens/
+Finished Crawling: http://ns.umich.edu/
+Finished Crawling: http://starspangledmusic.org/
+Finished Crawling: http://events.umich.edu/
+Total number of Web sites Crawled : 20

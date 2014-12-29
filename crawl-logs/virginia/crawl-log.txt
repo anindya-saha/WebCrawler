@@ -1,0 +1,24 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.virginia.edu/
+Finished Crawling: http://calendar.virginia.edu/
+Finished Crawling: https://sisuva.admin.virginia.edu/epprd/signon.html
+Finished Crawling: https://collab.itc.virginia.edu/portal/
+Finished Crawling: https://www.mail.virginia.edu/
+Finished Crawling: http://www.arch.virginia.edu/
+Finished Crawling: http://artsandsciences.virginia.edu/
+Finished Crawling: http://www.darden.virginia.edu/
+Finished Crawling: http://www.commerce.virginia.edu/
+Finished Crawling: http://www.scps.virginia.edu/
+Finished Crawling: http://curry.virginia.edu/
+Finished Crawling: http://www.seas.virginia.edu/
+Finished Crawling: http://www.law.virginia.edu/
+Finished Crawling: http://batten.virginia.edu/
+Finished Crawling: http://www.medicine.virginia.edu/ /
+Finished Crawling: http://www.nursing.virginia.edu/
+Finished Crawling: http://www.wise.virginia.edu/
+Finished Crawling: http://www.healthsystem.virginia.edu/
+Finished Crawling: http://www.library.virginia.edu/
+Exception Crawling: http://alumni.virginia.edu/ Url has errors.
+Finished Crawling: http://www.virginiasports.com/
+Total number of Web sites Crawled : 20

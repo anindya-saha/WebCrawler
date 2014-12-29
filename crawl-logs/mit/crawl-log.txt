@@ -1,0 +1,23 @@
+Started Crawling...
+Finished Crawling: http://web.mit.edu/
+Finished Crawling: http://newsoffice.mit.edu/2014/ocean-bacteria-follow-predictable-patterns-daily-activity-0710/
+Finished Crawling: http://web.mit.edu/aboutmit/
+Finished Crawling: http://web.mit.edu/institute-events/visitor/
+Finished Crawling: http://whereis.mit.edu/
+Finished Crawling: http://web.mit.edu/officesdir/
+Finished Crawling: http://mitstory.mit.edu/
+Finished Crawling: http://web.mit.edu/admissions/
+Finished Crawling: http://mitadmissions.org/
+Finished Crawling: http://web.mit.edu/admissions/graduate/
+Finished Crawling: http://web.mit.edu/sfs/
+Finished Crawling: http://web.mit.edu/education/
+Finished Crawling: http://web.mit.edu/industry/learning.html
+Finished Crawling: http://ocw.mit.edu/
+Finished Crawling: http://odl.mit.edu/mitx/
+Finished Crawling: http://edx.org/
+Finished Crawling: http://web.mit.edu/research/
+Exception Crawling: http://ll.mit.edu/ Url has errors.
+Finished Crawling: http://libraries.mit.edu/
+Finished Crawling: http://web.mit.edu/community/
+Finished Crawling: http://resources.mit.edu/
+Total number of Web sites Crawled : 20

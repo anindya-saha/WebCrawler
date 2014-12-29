@@ -1,0 +1,28 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.psu.edu/
+Finished Crawling: http://president.psu.edu/
+Finished Crawling: http://www.events.psu.edu/
+Finished Crawling: http://www.psu.edu/admission/
+Finished Crawling: http://giveto.psu.edu/
+Finished Crawling: http://alumni.psu.edu/
+Finished Crawling: http://www.gopsusports.com/
+Finished Crawling: http://news.psu.edu/
+Finished Crawling: http://news.psu.edu/rss/top-news/
+Finished Crawling: http://news.psu.edu/story/338731/2014/12/17/campus-life/young-professionals-find-their-voice-making-penn-state-stronger/
+Finished Crawling: http://news.psu.edu/story/339320/2014/12/21/athletics/penn-state-womens-volleyball-team-wins-seventh-ncaa-title/
+Finished Crawling: http://news.psu.edu/gallery/338887/2014/12/17/reflections-2014-year-penn-state-photographs/
+Finished Crawling: http://news.psu.edu/story/338574/2014/12/16/arts-and-entertainment/three-penn-state-musical-theatre-alumni-currently/
+Finished Crawling: http://news.psu.edu/video/338135/2014/12/11/santa-conducting-trombone-choir/
+Finished Crawling: http://socialmedia.psu.edu/
+Finished Crawling: http://www.facebook.com/PennState/
+Exception Crawling: http://on.fb.me/1zpSDWf/ Url has errors.
+Finished Crawling: https://twitter.com/penn_state/
+Finished Crawling: http://bit.ly/1zcjAYe/
+Exception Crawling: http://pic.twitter.com/Ol6o8yWxPc/ Url has errors.
+Finished Crawling: http://twitter.com/penn_state/status/0/
+Exception Crawling: https://twitter.com/intent/tweet?in_reply_to=0/ Url has errors.
+Exception Crawling: https://twitter.com/intent/retweet?tweet_id=0/ Url has errors.
+Exception Crawling: https://twitter.com/intent/favorite?tweet_id=0/ Url has errors.
+Finished Crawling: https://twitter.com/PSUBrandywine/
+Total number of Web sites Crawled : 20

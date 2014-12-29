@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www1.umn.edu/twincities/index.html
+Finished Crawling: http://www.umn.edu/
+Finished Crawling: http://www.crk.umn.edu/
+Finished Crawling: http://www.d.umn.edu/
+Finished Crawling: http://www.morris.umn.edu/index.php/
+Finished Crawling: http://www.r.umn.edu/
+Finished Crawling: http://www1.umn.edu/twincities/campuses/index.html#other-locations/
+Finished Crawling: http://www1.umn.edu/twincities/
+Finished Crawling: http://onestop.umn.edu/
+Finished Crawling: https://www.myu.umn.edu/
+Finished Crawling: http://www.minnesotaalumni.org/
+Finished Crawling: http://www1.umn.edu/regents/
+Finished Crawling: http://www1.umn.edu/ohr/employment/
+Finished Crawling: http://www.academic.umn.edu/equity/
+Finished Crawling: http://giving.umn.edu/give.html
+Finished Crawling: http://www1.umn.edu/news/
+Finished Crawling: http://safe-u.umn.edu/
+Finished Crawling: http://onestop.umn.edu/calendars/index.html
+Finished Crawling: http://www.bookstore.umn.edu/
+Finished Crawling: http://www.catalogs.umn.edu/courses.html
+Total number of Web sites Crawled : 20

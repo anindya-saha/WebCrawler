@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://washington.edu/
+Finished Crawling: http://uw.edu/studentlife/
+Finished Crawling: http://uw.edu/parents/
+Finished Crawling: http://uw.edu/facultystaff/
+Finished Crawling: http://uw.edu/alumni/
+Finished Crawling: http://uw.edu/about/
+Finished Crawling: http://uw.edu/diversity/
+Finished Crawling: http://uw.edu/leadership/
+Finished Crawling: http://uw.edu/maps/
+Finished Crawling: http://green.uw.edu/
+Finished Crawling: http://uw.edu/visit/
+Finished Crawling: http://washington.edu/students/reg/calendar.html
+Finished Crawling: http://uw.edu/about/academics/departments/
+Finished Crawling: http://uw.edu/about/academics/
+Finished Crawling: http://washington.edu/students/crscat/
+Finished Crawling: http://depts.washington.edu/registra/learning/registration-resources/
+Finished Crawling: http://washington.edu/students/
+Finished Crawling: http://uw.edu/students/timeschd/
+Finished Crawling: http://uw.edu/admissions/
+Finished Crawling: http://pce.uw.edu/
+Total number of Web sites Crawled : 20

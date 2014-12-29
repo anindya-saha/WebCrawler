@@ -1,0 +1,27 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://princeton.edu/main/
+Finished Crawling: http://princeton.edu/research/
+Finished Crawling: http://alumni.princeton.edu/
+Finished Crawling: http://princeton.edu/admission/
+Finished Crawling: http://gradschool.princeton.edu/admission/
+Finished Crawling: http://mobile.princeton.edu/
+Exception Crawling: https://play.google.com/store/apps/details?id=edu.princeton.mobile/ Url has errors.
+Finished Crawling: https://itunes.apple.com/us/app/princeton-mobile/id388821195/
+Finished Crawling: http://princeton.edu/events/
+Finished Crawling: https://vimeo.com/
+Exception Crawling: http://vimeo.com/help/flash/ Url has errors.
+Finished Crawling: http://goprincetontigers.com/
+Finished Crawling: http://artmuseum.princeton.edu/
+Exception Crawling: http://jobs.princeton.edu/ Url has errors.
+Finished Crawling: http://admission.princeton.edu/visitprinceton/tours-information-sessions/
+Finished Crawling: http://princeton.edu/admission/financialaid/estimator/
+Finished Crawling: http://giving.princeton.edu/
+Finished Crawling: http://emergency.princeton.edu/
+Finished Crawling: http://princeton.edu/strategicplan/
+Finished Crawling: http://princeton.edu/artsandtransit/
+Exception Crawling: http://arts.princeton.edu/ Url has errors.
+Finished Crawling: http://princetonsocialmedia.tumblr.com/
+Finished Crawling: http://facebook.com/PrincetonU/
+Finished Crawling: http://instagram.com/princeton_university/
+Total number of Web sites Crawled : 20

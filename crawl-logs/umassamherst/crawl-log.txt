@@ -1,0 +1,25 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.umass.edu/
+Finished Crawling: https://go.umass.edu/
+Finished Crawling: http://www.oit.umass.edu/email/
+Finished Crawling: https://www.spire.umass.edu/
+Finished Crawling: https://moodle.umass.edu/
+Finished Crawling: https://uma.umassonline.net/
+Finished Crawling: https://udrive.oit.umass.edu/
+Finished Crawling: http://www.library.umass.edu/
+Finished Crawling: http://umass.edu/peoplefinder/
+Finished Crawling: http://www.umassathletics.com/
+Finished Crawling: http://www.umass.edu/umassrising/
+Finished Crawling: http://www.umassulearn.net/index.php?option=com_content&amp;task=view&amp;id=301&amp;It/
+Finished Crawling: http://www.umassulearn.net/
+Finished Crawling: http://www.umass.edu/registrar/calendars/academic-calendar/
+Finished Crawling: http://www.umass.edu/provost/
+Finished Crawling: https://www.spire.umass.edu/psp/heproda/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?FolderPath=PORTAL_ROOT_OBJECT.CO_EMPLOYEE_SELF_SERVICE.HC_CLASS_SEARCH_GBL&amp;IsFolder=false&amp;IgnoreParamTempl=FolderPath%252cIsFolder/
+Exception Crawling: http://cesd3.oit.umass.edu/undergradguide/2014-2015/ Url has errors.
+Exception Crawling: http://cesd3.oit.umass.edu/gradbulletin/2014-2015/ Url has errors.
+Finished Crawling: http://www.umass.edu/registrar/
+Finished Crawling: http://www.umass.edu/admissions/
+Finished Crawling: http://www.umass.edu/gradschool/
+Finished Crawling: http://www.umass.edu/umccc/
+Total number of Web sites Crawled : 20

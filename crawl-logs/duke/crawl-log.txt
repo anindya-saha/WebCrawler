@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://duke.edu/
+Finished Crawling: http://admissions.duke.edu/
+Finished Crawling: http://admissions.duke.edu/application/instructions/
+Finished Crawling: http://admissions.duke.edu/education/value/
+Finished Crawling: http://admissions.duke.edu/application/instructions#general-instruct-transfers/
+Finished Crawling: http://admissions.duke.edu/forparents/
+Finished Crawling: http://admissions.duke.edu/application/instructions#general-instructions-international/
+Finished Crawling: http://dku.edu.cn/
+Finished Crawling: http://visit.duke.edu/
+Finished Crawling: http://gradschool.duke.edu/
+Finished Crawling: http://gradschool.duke.edu/academics/programs.php/
+Finished Crawling: http://gradschool.duke.edu/depts_progs/index.php/
+Finished Crawling: http://divinity.duke.edu/admissions/
+Finished Crawling: https://dku.edu.cn/en/academics/
+Finished Crawling: http://www.fuqua.duke.edu/programs/?/
+Finished Crawling: http://law.duke.edu/admis/
+Finished Crawling: http://dukemed.duke.edu/modules/flash_articles/
+Finished Crawling: http://nursing.duke.edu/admissions/
+Finished Crawling: http://nicholas.duke.edu/admissions/how-apply/
+Finished Crawling: http://www.duke-nus.edu.sg/admissions/
+Total number of Web sites Crawled : 20

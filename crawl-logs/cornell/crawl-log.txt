@@ -1,0 +1,25 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://cornell.edu/
+Finished Crawling: http://diversity.cornell.edu/
+Finished Crawling: http://sustainability.cornell.edu/
+Finished Crawling: http://international.cornell.edu/
+Finished Crawling: http://leadership.cornell.edu/
+Finished Crawling: http://admissions.cornell.edu/apply/
+Finished Crawling: http://admissions.cornell.edu/
+Finished Crawling: http://admissions.cornell.edu/apply/application-deadlines/
+Finished Crawling: http://admissions.cornell.edu/costs-aid/
+Finished Crawling: http://gradschool.cornell.edu/admissions/
+Finished Crawling: http://gradschool.cornell.edu/academics/
+Finished Crawling: http://gradschool.cornell.edu/academics/fields-study/index/
+Finished Crawling: http://sce.cornell.edu/ss/index.php/
+Finished Crawling: http://sce.cornell.edu/ws/index.php/
+Finished Crawling: http://sce.cornell.edu/exmu/index.php/
+Finished Crawling: http://courses.cornell.edu/
+Exception Crawling: https://cuabroad.cornell.edu/ Url has errors.
+Exception Crawling: http:/academics/goals/ Url has errors.
+Finished Crawling: http://research.cornell.edu/undergrad/
+Finished Crawling: http://research.cornell.edu/VPR/
+Finished Crawling: http://cctec.cornell.edu/
+Finished Crawling: http://gradschool.cornell.edu/academics/research-and-scholarship/
+Total number of Web sites Crawled : 20

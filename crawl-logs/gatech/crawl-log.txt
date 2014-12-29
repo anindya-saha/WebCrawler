@@ -1,0 +1,23 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://gatech.edu/
+Finished Crawling: http://president.gatech.edu/
+Finished Crawling: http://strategicvision.gatech.edu/
+Finished Crawling: http://careers.gatech.edu/
+Finished Crawling: http://registrar.gatech.edu/index.php?r=1/
+Finished Crawling: http://admission.gatech.edu/
+Finished Crawling: http://gradadmiss.gatech.edu/
+Finished Crawling: http://admission.gatech.edu/visit/
+Finished Crawling: http://finaid.gatech.edu/
+Finished Crawling: http://arts.gatech.edu/
+Finished Crawling: http://leadandengage.gatech.edu/
+Finished Crawling: http://housing.gatech.edu/
+Finished Crawling: http://greek.gatech.edu/
+Finished Crawling: http://crc.gatech.edu/
+Finished Crawling: http://swag.gatech.edu/
+Finished Crawling: http://ramblinwreck.com/
+Finished Crawling: http://ramblinwreckstore.com/
+Finished Crawling: http://ramblinwreck.com/tickets/ticket-info.html
+Finished Crawling: http://ramblinwreck.com/sports/m-footbl/sched/geot-m-footbl-sched.html
+Finished Crawling: http://research.gatech.edu/
+Total number of Web sites Crawled : 20

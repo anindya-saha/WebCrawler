@@ -1,0 +1,26 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://umd.edu/
+Finished Crawling: http://flickr.com/photos/mdedu/
+Exception Crawling: http://admissions.umd.edu/index.cfm/ Url has errors.
+Exception Crawling: http://m.umterps.com/ Url has errors.
+Finished Crawling: http://umdrightnow.umd.edu/
+Finished Crawling: http://innovation.umd.edu/
+Finished Crawling: http://lib.umd.edu/m/
+Finished Crawling: http://umd.edu/campus_tour/
+Finished Crawling: http://facebook.com/UnivofMaryland/
+Finished Crawling: http://youtube.com/user/UMD2101/
+Finished Crawling: http://twitter.com/UofMaryland/
+Finished Crawling: http://vimeo.com/umd/
+Finished Crawling: http://umd.edu/umnews/rss_feeds.cfm/
+Finished Crawling: http://umd.edu/iTunesU/index.cfm/
+Finished Crawling: http://nethics.umd.edu/dive-in/privacy.html
+Finished Crawling: http://feartheturtle.umd.edu/
+Finished Crawling: http://twitter.com/UMDRightNow/
+Finished Crawling: http://pinterest.com/umdedu/
+Finished Crawling: http://terpvision.umd.edu/
+Finished Crawling: http://terp.umd.edu/
+Exception Crawling: http://umterps.com/ Url has errors.
+Finished Crawling: http://weinbergmedicalphysics.com/
+Finished Crawling: http://bioe.umd.edu/faculty/shapiro/
+Total number of Web sites Crawled : 20

@@ -1,0 +1,34 @@
+http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings
+1. Carnegie Mellon University  http://www.cmu.edu/index.shtml - DONE
+1. Massachusetts Institute of Technology  http://web.mit.edu/ - DONE
+1. Stanford University http://www.stanford.edu/ - DONE
+1. University of California—​Berkeley  http://berkeley.edu/index.html - DONE
+5. University of Illinois—​Urbana-​Champaign http://illinois.edu/ - DONE
+6. Cornell University http://www.cornell.edu/ - DONE
+6. University of Washington http://www.washington.edu/ - DONE
+8. Princeton University http://www.princeton.edu/main/ - DONE
+9. Georgia Institute of Technology http://www.gatech.edu/ - DONE
+9. University of Texas—​Austin http://www.utexas.edu/ - DONE
+11. California Institute of Technology http://www.caltech.edu/ - DONE
+11. University of Wisconsin—​Madison http://www.wisc.edu/ - DONE
+13. University of California—​Los Angeles http://www.ucla.edu/ - DONE
+13. University of Michigan—​Ann Arbor https://www.umich.edu/ - DONE
+15. Columbia University http://www.columbia.edu/ - DONE
+15. University of California—​San Diego http://ucsd.edu/ - DONE
+15. University of Maryland—​College Park http://www.umd.edu/ - DONE
+18. Harvard University http://www.harvard.edu/ - DONE
+19. University of Pennsylvania http://www.upenn.edu/ - DONE
+20. Brown University http://www.brown.edu/ - DONE
+20. Purdue University—​West Lafayette http://www.purdue.edu/ - DONE
+20. Rice University http://www.rice.edu/ - DONE
+20. University of Southern California http://www.usc.edu/ - DONE
+20. Yale University http://www.yale.edu/ - DONE
+25. Duke University http://duke.edu/ - DONE
+25. University of Massachusetts—​Amherst http://www.umass.edu/ - DONE
+25. University of North Carolina—​Chapel Hill http://www.unc.edu/ - DONE
+28. Johns Hopkins University http://www.jhu.edu/ - DONE
+29. New York University http://www.nyu.edu/ - DONE
+29. Pennsylvania State University—​University Park http://www.psu.edu/ - DONE
+29. University of California—​Irvine http://uci.edu/ - DONE
+29. University of Minnesota—​Twin Cities http://www1.umn.edu/twincities/index.html
+29. University of Virginia http://www.virginia.edu/

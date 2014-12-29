@@ -1,0 +1,24 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://caltech.edu/
+Finished Crawling: https://alumni.caltech.edu/
+Finished Crawling: http://sustainability.caltech.edu/
+Finished Crawling: http://eands.caltech.edu/
+Finished Crawling: http://archives.caltech.edu/
+Finished Crawling: http://caltech.edu/news/tag_ids/61/Research%20News/
+Finished Crawling: http://caltech.edu/news/tag_ids/52%2B51%2B58%2B59/Campus%20Life%20News/
+Finished Crawling: http://caltech.edu/news/tag_ids/47%2B51%2B62%2B43%2B93/Institute%20Announcements/
+Finished Crawling: http://caltech.edu/news/tag_ids/94/Awards%20Spotlight/
+Finished Crawling: http://security.caltech.edu/Emergency_Information/
+Finished Crawling: http://commencement.caltech.edu/
+Finished Crawling: http://bbe.caltech.edu/
+Finished Crawling: http://cce.caltech.edu/
+Finished Crawling: http://eas.caltech.edu/
+Finished Crawling: http://gps.caltech.edu/
+Finished Crawling: http://hss.caltech.edu/
+Exception Crawling: http://pma.caltech.edu/ Url has errors.
+Finished Crawling: http://online.caltech.edu/
+Finished Crawling: http://library.caltech.edu/
+Finished Crawling: http://registrar.caltech.edu/
+Finished Crawling: http://admissions.caltech.edu/
+Total number of Web sites Crawled : 20

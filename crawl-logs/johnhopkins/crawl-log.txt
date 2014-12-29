@@ -1,0 +1,48 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.jhu.edu/
+Finished Crawling: http://www.ustream.tv/channel/johnshopkinsu/
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/about_jhu/a_brief_history_of_jhu/index.cfm/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/administration/ Url has errors.
+Finished Crawling: http://jhu.edu/president/
+Finished Crawling: http://web.jhu.edu/administration/provost/
+Finished Crawling: http://www.jhu.edu/seniorvp/
+Finished Crawling: http://web.jhu.edu/administration/development/
+Finished Crawling: http://web.jhu.edu/administration/gcpa/community_affairs/index_community.html
+Finished Crawling: http://web.jhu.edu/aroundtheworld/
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/news_and_publications/ Url has errors.
+Finished Crawling: http://hub.jhu.edu/
+Finished Crawling: http://hub.jhu.edu/gazette/
+Finished Crawling: http://hub.jhu.edu/magazine/
+Finished Crawling: http://releases.jhu.edu/
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/news_and_publications/divisional_publications/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/visitor_information/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/JHU_research_highlights/index.cfm/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/faculty_honors/index.cfm/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/nobel_prize_winners/index.cfm/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/books_by_hopkins_faculty/index.cfm/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/notable_hopkins_graduates/index.cfm/ Url has errors.
+Finished Crawling: http://webapps.jhu.edu/namedprofessorships/
+Finished Crawling: http://members.ucan-network.org/jhu/
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/tuition_and_financial_aid/index.cfm/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/about_johns_hopkins/social_media/ Url has errors.
+Finished Crawling: http://www.facebook.com/johnshopkinsuniversity/
+Finished Crawling: http://www.youtube.com/johnshopkins/
+Finished Crawling: http://twitter.com/johnshopkins/
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/homewood_campus/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/east_baltimore/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/harbor_east/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/peabody_institute/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/nitze_school/index.cfm/ Url has errors.
+Finished Crawling: http://www.jhubc.it/HOME/index.cfm/
+Finished Crawling: http://nanjing.jhu.edu/index.html
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/applied_physics_lab/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/washington_dc_center_1717/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/montgomery_county_center/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/columbia_center/ Url has errors.
+Exception Crawling: http://webapps.jhu.edu/jhuniverse/search/directories/ Url has errors.
+Finished Crawling: https://hrnt.jhu.edu/jhujobs/
+Total number of Web sites Crawled : 20

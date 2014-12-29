@@ -1,0 +1,24 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://www.unc.edu/
+Finished Crawling: http://events.unc.edu/
+Exception Crawling: http://library.unc.edu/ Url has errors.
+Finished Crawling: http://connectcarolina.unc.edu/
+Finished Crawling: http://www.unc.edu/about/
+Finished Crawling: http://www.unc.edu/academics/
+Finished Crawling: http://research.unc.edu/
+Finished Crawling: http://www.unc.edu/public-service/
+Finished Crawling: http://www.unc.edu/health/
+Finished Crawling: http://global.unc.edu/
+Finished Crawling: http://www.unc.edu/arts/
+Finished Crawling: http://www.unc.edu/athletics/
+Finished Crawling: http://www.unc.edu/prospective-students/
+Finished Crawling: http://www.unc.edu/current-students/
+Finished Crawling: http://www.unc.edu/faculty-staff/
+Finished Crawling: http://www.unc.edu/alumni/
+Finished Crawling: http://www.unc.edu/parents/
+Finished Crawling: http://www.unc.edu/visitors/
+Finished Crawling: http://giving.unc.edu/
+Finished Crawling: http://www.bizjournals.com/triangle/morning_call/2014/12/forbes-chapel-hill-is-the-no-3-best-college-town.html
+Finished Crawling: http://www.educationdive.com/news/7-ways-higher-ed-institutions-are-increasingly-joining-forces/343545/
+Total number of Web sites Crawled : 20

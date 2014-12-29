@@ -1,0 +1,23 @@
+Started Crawling...
+Finished Crawling: http://cmu.edu/index.shtml
+Finished Crawling: http://directory.andrew.cmu.edu/
+Finished Crawling: http://cmu.edu/events/
+Finished Crawling: http://search.library.cmu.edu/
+Finished Crawling: http://cmu.edu/jobs/
+Finished Crawling: https://securelb.imodules.com/s/1410/giving/form.aspx?sid=1410&amp;gid=1&amp;pgid=382&amp;cid=990&amp;appealcode=A1640/
+Exception Crawling: http://cmu.edu/RSS/stories.rss/ Url has errors.
+Finished Crawling: http://facebook.com/carnegiemellonu/
+Finished Crawling: http://twitter.com/carnegiemellon/
+Finished Crawling: http://youtube.com/carnegiemellonu/
+Finished Crawling: http://cmu.edu/itunesu/
+Finished Crawling: http://cmu.edu/social-media/index.shtml
+Finished Crawling: http://cmu.edu/homepage/computing/2014/fall/clued-in.shtml
+Finished Crawling: http://cmu.edu/homepage/computing/2014/fall/lunar-rover-wows-xprize-judges.shtml
+Finished Crawling: http://cmu.edu/piper/briefs/2014/december/december-18/homepage-refresh.html
+Finished Crawling: http://cmu.edu/global/
+Finished Crawling: http://cmu.edu/tony-awards/
+Finished Crawling: http://carnegiemellontoday.com/
+Finished Crawling: http://youtu.be/xQNzgSNvdWg/
+Finished Crawling: http://cmu.edu/news/stories/archives/2014/december/december23_IEEEfellows.html
+Finished Crawling: http://cmu.edu/news/stories/archives/2014/december/december22_onlineteams.html
+Total number of Web sites Crawled : 20

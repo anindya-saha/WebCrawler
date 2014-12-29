@@ -1,0 +1,24 @@
+Clicked Start
+Started Crawling...
+Finished Crawling: http://ucla.edu/
+Finished Crawling: http://atmos.ucla.edu/weather/quick-look/
+Finished Crawling: http://m.ucla.edu/?utm_source=ucla.edu%2Bresponsive%2Bhomepage&utm_medium=Apps%2Bbutton&utm_campaign=UCLA%2Bmobile%2Breferral%2Bfrom%2Bgateway/
+Finished Crawling: http://giveto.ucla.edu/?utm_campaign=Centennial+Campaign+Launch&utm_source=Gateway+Takeover&utm_medium=website&utm_content=Give+Now+Button/
+Finished Crawling: http://bit.ly/1A750CY/
+Finished Crawling: http://bit.ly/1tjMLq0/
+Finished Crawling: http://bit.ly/1tjMJhY/
+Finished Crawling: http://bit.ly/1izuvCP/
+Finished Crawling: http://giveto.ucla.edu/the-centennial-campaign?utm_campaign=Centennial+Campaign+Launch&utm_source=Gateway+Takeover&utm_medium=website&utm_content=Sidebar+Flyout+Bug+Mobile/
+Finished Crawling: http://bit.ly/1zJvHA1/
+Exception Crawling: http://uclabruins.com / Url has errors.
+Finished Crawling: http://bit.ly/1z9uOSs/
+Finished Crawling: http://bit.ly/1xqcQdI/
+Finished Crawling: http://bit.ly/1su67J5/
+Finished Crawling: http://newsroom.ucla.edu/stories/top-ucla-stories-of-2014-a-year-in-images/
+Finished Crawling: http://newsroom.ucla.edu/releases/emergency-services-to-be-maintained-during-annual-campus-closure/
+Finished Crawling: http://newsroom.ucla.edu/releases/researchers-shed-light-on-how-microbial-dark-matter-might-cause-disease/
+Finished Crawling: http://newsroom.ucla.edu/stories/boy-with-rare-disease-delivers-1-000-toys-to-mattel-children-s-hospital-at-ucla/
+Finished Crawling: http://newsroom.ucla.edu/releases/ucla-arts-announces-public-events-calendar-for-winter-2015/
+Finished Crawling: http://newsroom.ucla.edu/releases/breaking-bad-syndrome-UCLA-anthropologist-exposes-moral-side-violence/
+Finished Crawling: http://newsroom.ucla.edu/releases/lost-memories-might-be-able-to-be-restored-new-ucla-study-indicates/
+Total number of Web sites Crawled : 20
