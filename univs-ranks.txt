@@ -30,5 +30,5 @@ http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-scie
 29. New York University http://www.nyu.edu/ - DONE
 29. Pennsylvania State University—​University Park http://www.psu.edu/ - DONE
 29. University of California—​Irvine http://uci.edu/ - DONE
-29. University of Minnesota—​Twin Cities http://www1.umn.edu/twincities/index.html
-29. University of Virginia http://www.virginia.edu/
+29. University of Minnesota—​Twin Cities http://www1.umn.edu/twincities/index.html - DONE
+29. University of Virginia http://www.virginia.edu/ - DONE
